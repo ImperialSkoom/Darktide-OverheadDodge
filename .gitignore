@@ -1,0 +1,17 @@
+# Editor settings and swap files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local logs and packaged releases
+*.log
+/*.zip
+/*.7z
+/*.rar
